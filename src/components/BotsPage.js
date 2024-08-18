@@ -18,7 +18,7 @@ function BotsPage() {
   const handleBotDelete = async (botToDelete) => {
     try {
       // send delete request to the backend
-      await fetch(`http://localhost:3000/bots/${botToDelete.id}`, {
+      await fetch(`https://bots-challenge-amber.vercel.app/bots/${botToDelete.id}`, {
         method: "DELETE",
       });
       // Remove the bot from the army if it's in the army
