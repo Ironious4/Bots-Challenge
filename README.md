@@ -47,4 +47,7 @@ After finishing these steps you should see your updates changes in your github p
 Before we forget,the work is to be submitted to canvas. Simply paste the URL of the work in the submission section of the code challenge and click on submit assignment.
 
 That's pretty much it! The code challenge has been successfully completed and submitted!
+NB: You should find my live website in the link below:
+https://bots-challenge-e6th-evnwdvrm3-tyrones-projects-893d17e9.vercel.app
+
 
